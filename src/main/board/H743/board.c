@@ -1139,5 +1139,4 @@ const char __attribute__ ((section(".custom_defaults"), used, aligned(4))) custo
     "set yaw_rate_limit = 1998\n"
     "# end the command batch\n"
     "batch end\n"
-    "\0"
-;
+    "\0";
