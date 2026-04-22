@@ -1,0 +1,14 @@
+#pragma once
+
+#define USE_GYRO_SPI_MPU6000
+#define USE_ACC_SPI_MPU6000
+#define USE_GYRO_SPI_MPU6500
+#define USE_ACC_SPI_MPU6500
+#define USE_MAX7456
+#define USE_DSHOT
+#define USE_SERIALRX
+#define USE_SERIALRX_CRSF
+#define USE_SERIALRX_SBUS
+#define USE_TELEMETRY
+#define USE_FLASH
+#define USE_OSD
